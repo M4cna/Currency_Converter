@@ -1,5 +1,8 @@
 Welcome to the Currency Converter application! This project is designed to help you easily convert between various currencies using live exchange rates. Built with React and utilizing the FreeCurrencyAPI, this tool offers a simple and intuitive interface for users to get real-time currency conversion information.
 
+![Uploading image.png…]()
+
+
 Features:
 
 Live Exchange Rates: Fetches real-time data from FreeCurrencyAPI.
