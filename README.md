@@ -3,6 +3,7 @@ Welcome to the Currency Converter application! This project is designed to help 
 ![image](https://github.com/user-attachments/assets/b808ae5f-076f-4a5d-b427-1e98f5204c3d)
 
 
+
 Features:
 
 Live Exchange Rates: Fetches real-time data from FreeCurrencyAPI.
@@ -12,6 +13,7 @@ Multiple Currency Support: Supports a wide range of currencies for conversion.
 Easy-to-Use Interface: User-friendly design ensures a seamless experience.
 
 Responsive Design: Optimized for both desktop and mobile devices.
+
 
 
 How to Use:
